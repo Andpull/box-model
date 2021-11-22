@@ -1,0 +1,14 @@
+.content{
+    box-sizing: content-box;
+    width: 400px;
+    padding: 50px;
+    border: 15px solid #000;
+    outline: teal;
+}
+.border{
+    box-sizing: border-box;
+    width: 400px;
+    padding: 50px;
+    border: 15px solid #000;
+    outline: springgreen;
+}
